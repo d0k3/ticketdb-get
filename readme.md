@@ -1,0 +1,1 @@
+This is just a simple parser for 3DS system ticket databases. Keep in mind databases have to be decrypted for this to work. This tool has no use on its own, it is purely for educational purposes.

@@ -1,3 +1,11 @@
+# User added
+*.db
+*.exe
+*.csv
+*.ods
+*.xls
+*.zip
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
